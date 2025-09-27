@@ -109,7 +109,7 @@ Rectangle {
 
              /*
              * The ViewManager has settings -- user-controlled via the
-             * branding component, and party based on program state --
+             * brandii??nsng component, and party based on program state --
              * whether the quit button should be enabled and visible.
              *
              * QML navigation *should* follow this pattern, but can also
@@ -220,7 +220,7 @@ Rectangle {
     }
 }
  72
-branding/xerolinux/calamares-sidebar.qml
+branding/AcreetionOS/calamares-sidebar.qml
 @@ -0,0 +1,72 @@
 /* Sample of QML progress tree.
    SPDX-FileCopyrightText: 2020 Adriaan de Groot <groot@kde.org>
