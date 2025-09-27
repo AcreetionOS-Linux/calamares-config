@@ -220,7 +220,7 @@ Rectangle {
     }
 }
  72
-branding/xerolinux/calamares-sidebar.qml
+branding/calamares/calamares-sidebar.qml
 @@ -0,0 +1,72 @@
 /* Sample of QML progress tree.
    SPDX-FileCopyrightText: 2020 Adriaan de Groot <groot@kde.org>
