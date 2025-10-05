@@ -219,8 +219,8 @@ Rectangle {
         }
     }
 }
- 72
-branding/AcreetionOS/calamares-sidebar.qml
+ 
+branding/calamares-sidebar.qml
 @@ -0,0 +1,72 @@
 /* Sample of QML progress tree.
    SPDX-FileCopyrightText: 2020 Adriaan de Groot <groot@kde.org>
